@@ -163,7 +163,7 @@ React        2 hrs 30 mins  ███░░░░░░░░░░░░░░�
 <div align="center">
   
 ### 🎵 Currently Vibing To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyuser)](https://open.spotify.com/user/yourspotifyuser)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ywbkasym24vbwzragcklxh7cli)](https://open.spotify.com/user/31ywbkasym24vbwzragcklxh7cli)
 
 ### ☕ Coffee Counter
 ![Coffee](https://img.shields.io/badge/Coffee%20consumed%20today-7%20cups-brown?style=for-the-badge)
