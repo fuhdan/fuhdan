@@ -95,7 +95,7 @@ React        2 hrs 30 mins  ███░░░░░░░░░░░░░░�
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/fuhdan/fuhdan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
 ## 📝 Latest Blog Posts
 
