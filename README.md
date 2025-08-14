@@ -79,12 +79,18 @@ React        2 hrs 30 mins  ███░░░░░░░░░░░░░░�
 ## 🎨 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/fuhdan/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuhdan&repo=awesome-project&theme=radical" />
+  
+*🚧 Building awesome projects - repositories coming soon! 🚧*
+
+<!-- Uncomment when you have repositories to showcase:
+  <a href="https://github.com/fuhdan/your-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuhdan&repo=your-repo-name&theme=radical" />
   </a>
-  <a href="https://github.com/fuhdan/another-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuhdan&repo=another-cool-project&theme=radical" />
+  <a href="https://github.com/fuhdan/another-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuhdan&repo=another-repo-name&theme=radical" />
   </a>
+-->
+
 </div>
 
 ## 🐍 Contribution Snake
