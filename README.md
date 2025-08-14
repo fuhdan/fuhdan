@@ -133,7 +133,7 @@ React        2 hrs 30 mins  ███░░░░░░░░░░░░░░�
 **A:** I can create bugs faster than any debugger can find them. It's a gift, really.
 
 ### Q: Do you work with [insert technology here]?
-**A:** If it involves network security, automation, or doesn't require me to understand modern CSS frameworks, probably yes!
+**A:** If it needs securing, monitoring, or can be exploited by a 12-year-old with Kali Linux, absolutely! If it requires me to center a div or understand why JavaScript thinks `[] + [] = ""`, we might have a problem.
 
 ### Q: How do you stay motivated?
 **A:** Imposter syndrome and caffeine - a deadly combination that somehow works.
