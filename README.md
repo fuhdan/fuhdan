@@ -97,14 +97,6 @@ React        2 hrs 30 mins  ███░░░░░░░░░░░░░░�
 
 ![snake gif](https://github.com/fuhdan/fuhdan/blob/output/github-contribution-grid-snake.svg)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Learned to Stop Worrying and Love the Bug](https://yourblog.com/post1)
-- [CSS: The Dark Arts of Web Development](https://yourblog.com/post2)
-- [My Journey from Hello World to Hello Unemployment](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 💬 Ask Me About
 
 - **Network Security**: I can make firewalls dance
@@ -163,7 +155,7 @@ React        2 hrs 30 mins  ███░░░░░░░░░░░░░░�
 <div align="center">
   
 ### 🎵 Currently Vibing To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ywbkasym24vbwzragcklxh7cli)](https://open.spotify.com/user/31ywbkasym24vbwzragcklxh7cli)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=fuhdan)](https://open.spotify.com/user/31ywbkasym24vbwzragcklxh7cli)
 
 ### ☕ Coffee Counter
 ![Coffee](https://img.shields.io/badge/Coffee%20consumed%20today-7%20cups-brown?style=for-the-badge)
